@@ -1,4 +1,4 @@
-#Ejercicio 1:1.	Investiga información sobre YAML y JSON y elabora una documentación con los datos más importantes utilizando Markdown.
+#Ejercicio 1:	Investiga información sobre YAML y JSON y elabora una documentación con los datos más importantes utilizando Markdown.
 
 ##¿Qué es JSON?
 Para responder qué es JSON, debemos empezar por decir que sus siglas en inglés son por JavaScript Object Notation. Se trata de un formato para guardar e intercambiar información que cualquier persona pueda leer. Los archivos json contienen solo texto y usan la extensión .json.
@@ -25,7 +25,7 @@ Aunque ambos se utilizan para representar datos estructurados, tienen diferencia
 
 Legibilidad: JSON es mas estructurado pero YMAL es más fácil para humanos
 
-COmentarios: YAML utiliza # para los comentarios y JSON no los soporta
+Comentarios: YAML utiliza # para los comentarios y JSON no los soporta
 
 Uso principal: JSON se utiliza para APIS y bases de datos mientras que YAML es preferido en configuraciones por su legibilidad
 
